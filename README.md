@@ -33,4 +33,4 @@ README.md
 Live link: https://projects-5i33.vercel.app/
 
 ## Author
-<Saksham Kapoor> -<Saksham Kapoor>
+<Your Name> - <Saksham Kapoor>
