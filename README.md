@@ -30,7 +30,7 @@ README.md
 2. Open the folder and double-click `index.html` (no build step or server needed).
 
 ## Deployed Website
-Live link: **<paste-your-vercel-url-here>**
+Live link: https://projects-5i33.vercel.app/
 
 ## Author
-<Your Name> - <Roll Number>
+<Saksham Kapoor> - <26300110>
